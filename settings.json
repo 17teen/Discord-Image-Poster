@@ -1,0 +1,8 @@
+{
+    "WEBHOOK_ID": "",
+    "WEBHOOK_TOKEN": "",
+    "ALLOW_USERS": true,
+    "USER_TOKEN": "",
+    "USER_ID"   : "",
+    "USER_PREFIX": "-"
+}
