@@ -44,7 +44,8 @@ Simple tool that posts images to a specified channel for you while you carry on 
 
 # Start-up:
 
-1. Run the `run.bat` file. | Double Left Click.
+1. Add images to the `/images` folder.
+2. Run the `run.bat` file. | Double Left Click.
 
 ## Limitations: Webhook
 
