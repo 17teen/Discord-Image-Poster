@@ -1,0 +1,6 @@
+Add images to this folder. 
+
+Delete this file afterwards
+
+
+**Once a file is posted onto discord it is removed from this folder automatically.**
