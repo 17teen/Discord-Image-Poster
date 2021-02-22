@@ -27,6 +27,7 @@ Simple tool that posts images to a specified channel for you while you carry on 
 - `WEBHOOK_TOKEN`| `string` | Your Webhook token.
 - `USER_TOKEN`| `string` | Your account token | How to get token? [Click Here](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
 - `USER_ID`| `string` | User ID | Must be corresponding with token or tool won't work.
+- `USER_PREFIX`| `string` | The prefix for the command to run.
 - `ALLOW_USERS`| `bool` | Default set to `true`. Allows the use of your account.
 
 ### Example: `settings.json`
