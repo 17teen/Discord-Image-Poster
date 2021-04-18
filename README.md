@@ -1,3 +1,5 @@
+# THIS USER VERSION HAS NOW BEEN DISCONTINUED. NO MORE FURTHER WORKS WILL BE MADE FOR THIS TOOL IN JS VERSION. SELFBOTTING IN D.JS IS NOW RENDERED USELESS. USE WEBHOOKS FOR THE TIME BEING.
+
 # Discord-Image-Poster
 Simple tool that posts images to a specified channel for you while you carry on using discord.
 
