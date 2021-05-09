@@ -76,7 +76,7 @@ Webhook:
 
 # Disclaimer
 
-This involves the use of selfbots/botting your account, which is against discord ToS. Use this at your own risk.
+This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
 
 Creds to: [@MikeHawkVeryHard](https://github.com/MikeHawkVeryHard) for image posting functionality.
 
